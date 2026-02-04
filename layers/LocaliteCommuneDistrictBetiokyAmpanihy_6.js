@@ -1,0 +1,1 @@
+var json_LocaliteCommuneDistrictBetiokyAmpanihy_6 = {"type":"FeatureCollection","name":"LocaliteCommuneDistrictBetiokyAmpanihy_6","features":[]}
